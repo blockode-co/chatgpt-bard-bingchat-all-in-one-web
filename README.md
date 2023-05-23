@@ -51,11 +51,6 @@ Feel free to customize the application according to your needs. You can modify t
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- [OpenAI](https://openai.com/) for providing the GPT and BARD APIs.
-- [Microsoft Azure](https://azure.microsoft.com/) for the Bing Chat API.
-
 ## Contributing
 
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
