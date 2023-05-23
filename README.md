@@ -12,7 +12,7 @@ Before running the application, ensure you have the following prerequisites inst
 You'll also need the following API keys:
 
 - OpenAI GPT API key
-- BARD API key
+- Google BARD API key
 - Bing Chat API key
 
 ## Getting Started
