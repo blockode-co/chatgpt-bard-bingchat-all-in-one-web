@@ -1,6 +1,6 @@
 # chatgpt-bard-bingchat-all-in-one-web
 
-Chatbot is a React.js web application that utilizes OpenAI GPT API, BARD API, and Bing Chat API to provide text responses from user input.
+Chatbot is a React.js web application that generates text responses based on user input. It utilizes OpenAI GPT API, BARD API, and Bing Chat API.
 
 ## Prerequisites
 
